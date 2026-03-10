@@ -1,2 +1,3 @@
-# .github
-Web framework built on Web Standards
+# Aurora Access
+
+> “Freedom is not a feature — it’s a right written in light.”
